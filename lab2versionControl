@@ -1,0 +1,23 @@
+lab2
+
+git branch dev 
+git branch test
+git push origin main 
+git push origin test
+git push origin dev
+
+git branch 
+git chechout test 
+cat>t.txt
+cat>file.txt
+git add .
+git commit -m "test files" 
+git push origin test
+
+
+git checkout dev
+cat>file.txt
+git add .
+git commit -m "dev files"
+git push origin dev 
+ 
