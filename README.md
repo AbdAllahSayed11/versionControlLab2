@@ -4,6 +4,8 @@ git rm file.txt
 git commit -m "test remove file.txt"
 git push test
 
+//ex
+git checkout -b test // create and change to it in same line 
 //q2
 git stash // save changes temp
 git checkout test 
